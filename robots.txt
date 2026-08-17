@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://handbook-dhhz25.saturadar88.shop/sitemap.xml
